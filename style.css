@@ -1,0 +1,16 @@
+body{
+    background:linear-gradient(blue,WHITE);
+}
+h1{
+    color: aliceblue;
+}
+    form{
+    background:linear-gradient(chartreuse,yellow);
+}
+
+th, td{
+    border: 2px solid;
+    border-color: salmon;
+    text-align: center;
+}
+
